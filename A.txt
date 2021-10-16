@@ -1,0 +1,7 @@
+// git reflog
+// git reset --hard HEAD@{숫자}
+// git push -f origin
+
+// git reflog
+// git revert --no-commit HEAD~3
+// git commit -b 'Revert'
